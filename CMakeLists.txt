@@ -1,0 +1,8 @@
+cmake_minimum_required(VERSION 3.16)
+project(Foo)
+
+set(CMAKE_CXX_STANDARD 20)
+include_directories("C:\\tools\\msys64\\mingw64\\include" "C:\\tools\\msys64\\mingw64\\include\\ncursesw")
+link_directories("C:\\tools\\msys64\\mingw64\\lib")
+add_executable(${PROJECT_NAME} main.cpp)
+target_link_libraries(${PROJECT_NAME} ncurses)
