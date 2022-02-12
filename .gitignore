@@ -1,3 +1,4 @@
 build
 .vs
 build_wsl
+.vscode
