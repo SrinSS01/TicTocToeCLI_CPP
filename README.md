@@ -1,6 +1,6 @@
 # TicTocToeCLI_CPP
 
-A commandline app to play tic-tac-toe (player vs player only, player vs pc not yet implemented)
+A commandline app to play tic-tac-toe `(player vs player only, player vs pc not yet implemented)`
 
 <img src="https://github.com/SrinSS01/TicTocToeCLI_CPP/blob/main/screenshots/1.png" width=721.5 height=384 alt="img-1">
 
